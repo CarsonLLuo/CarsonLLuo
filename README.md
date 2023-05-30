@@ -13,9 +13,7 @@
   <!-- profile logo 个人资料徽标 -->
   <div align="center">
    
-    <!-- visitor statistics logo 访客数统计徽标 -->
-    <img src="https://komarev.com/ghpvc/?username=sun0225SUN&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
-  </div>
+、
 
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
   <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
@@ -32,7 +30,7 @@
   
 <img align="right" width="250" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hi.gif" />
 
-<p>&emsp;&emsp;大家好，我是Caron，是一枚INFP</p>
+<p>&emsp;&emsp;大家好，我是Carson，一枚INFP</p>
 <p>&emsp;&emsp;热爱编程、摄影、读书、旅行。</p>
 <p>&emsp;&emsp;热爱计算机科学和IT互联网事业，励志成为一名优秀的独立开发者。</p>
 <p>&emsp;&emsp;希望这个世界变得更加美好</p>
@@ -49,11 +47,10 @@
 <img align="right" width="250" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hi.gif" />
 
 <!-- START_SECTION:douban -->
-* <a href='https://book.douban.com/subject/35193035/' target='_blank'>最近在读认知觉醒</a> 🌟🌟🌟🌟🌟 力荐- 2023-04-17
+* <a href='https://book.douban.com/subject/1209899/' target='_blank'>最近在读我与地坛</a> 🌟🌟🌟🌟🌟 力荐- 2023-04-17
 * <a href='http://movie.douban.com/subject/1292052/' target='_blank'>看过肖申克的救赎</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07
 * <a href='http://movie.douban.com/subject/1292365/' target='_blank'>看过活着</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07
-* <a href='https://music.douban.com/subject/26567580/' target='_blank'>听过假如爱有天意</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07
-* <a href='http://movie.douban.com/subject/35465232/' target='_blank'>在看狂飙</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07
+* <a href='https://open.spotify.com/artist/3HXSUfI76zVZk71UMAeVfp' target='_blank'>听过草东没有派对</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07
 <!-- END_SECTION:douban -->
 
 </td></tr>
@@ -72,7 +69,7 @@
 
 ```mermaid
 mindmap
-  root((小孙同学))
+  root((Carson))
     编程
       Web开发
       Java
@@ -81,6 +78,11 @@ mindmap
       人文
       建筑
       风景
+    音乐
+      摇滚
+        后摇
+        另类
+      流行
     旅行
       大连
       南京
