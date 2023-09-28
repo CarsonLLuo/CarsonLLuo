@@ -71,8 +71,9 @@ mindmap
   root((Carson))
     编程
       Web开发
-      Java
       Python
+        Deep Learning
+        Machine Learning
     摄影
       人文
       建筑
@@ -81,12 +82,7 @@ mindmap
       摇滚
         后摇
         另类
-      流行
-    旅行
-      大连
-      南京
-      合肥
-      阳朔
+        Shoegaze
     阅读
       短篇散文
       人物传记
