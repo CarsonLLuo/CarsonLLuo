@@ -67,6 +67,8 @@
   <h2> GitHub Stats </h2>
 </div>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=CarsonLLuo)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!-- 贪吃蛇代码贡献图 -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/CarsonLLuo/CarsonLLuo/output/github-contribution-grid-snake.svg" />
