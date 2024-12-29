@@ -48,10 +48,10 @@
 </div>
 
 <div align="center">
-  <h4>✨ 我是 Carson</h4>
+  <h4>✨ 这里是 Carson</h4>
   <h4>📚 即将毕业，计划 Gap</h4>
-  <h4>🚀 热爱探索 AI 技术，专注于深度学习和大语言模型</h4>
-  <h4>🌱 让我们一起探索 AI 的无限可能</h4>
+  <h4>🚀 热爱探索 AI 技术</h4>
+  <h4>🌱 希望这个世界变得更好</h4>
 </div>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarsonLLuo&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
