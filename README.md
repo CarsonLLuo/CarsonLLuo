@@ -19,24 +19,59 @@
 ## 🌈 About Me
 
 ```python
+# Terminal Style Output
+print("""
+╭──────────────── PROFILE ────────────────╮
+│                                         │
+│  🤖 Initializing AI Developer Profile   │
+│  ⚡ Loading Skills and Configurations   │
+│                                         │
+╰─────────────────────────────────────────╯
+""")
+
 class Carson:
     def __init__(self):
-        self.name = "Carson"
-        self.role = "AI Developer & Researcher"
-        self.language_spoken = ["zh_CN", "en_US"]
-        self.personality = "INFP"
-        self.tech_stack = {
-            "Deep Learning": ["PyTorch", "TensorFlow", "Keras"],
-            "Machine Learning": ["Scikit-learn", "XGBoost", "LightGBM"],
-            "Data Science": ["NumPy", "Pandas", "Matplotlib", "Seaborn"],
-            "Tools": ["Jupyter", "Git", "Docker", "Linux"]
+        self.status = "⚡ Online"
+        self.name = "🎯 Carson"
+        self.role = "🤖 AI Developer & Researcher"
+        self.location = "🌍 Earth"
+        
+        # Core Attributes
+        self.personality = "🎨 INFP"
+        self.languages = {
+            "Programming": ["Python", "C++", "JavaScript"],
+            "Human": ["🇨🇳 Chinese", "🇺🇸 English"]
         }
         
-    def say_hi(self):
-        print("Thanks for dropping by! Hope you find something interesting.")
+        # Tech Arsenal 🚀
+        self.tech_stack = {
+            "🧠 Deep Learning": ["PyTorch", "TensorFlow", "Keras"],
+            "🔬 Machine Learning": ["Scikit-learn", "XGBoost", "LightGBM"],
+            "📊 Data Science": ["NumPy", "Pandas", "Matplotlib"],
+            "🛠️ Tools": ["Jupyter", "Git", "Docker", "Linux"]
+        }
+        
+        # Current Focus
+        self.current_learning = "🎯 Advanced Deep Learning Architectures"
+        self.interests = ["🤖 AI", "📸 Photography", "🎵 Music", "📚 Reading"]
 
+    def say_hi(self):
+        print(f"""
+╭──────────── Welcome Message ───────────╮
+│                                        │
+│  🌟 Hey there, fellow developer!       │
+│  💻 Thanks for visiting my profile     │
+│  🚀 Let's build something amazing!     │
+│                                        │
+╰────────────────────────────────────────╯
+        """)
+
+# Initialize Profile
 me = Carson()
 me.say_hi()
+
+# Loading animation
+print("[■■■■■■■■■■] 100% Profile Loaded!")
 ```
 
 ## 🚀 Skills & Tools
