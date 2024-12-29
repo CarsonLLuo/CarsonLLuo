@@ -63,7 +63,7 @@
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,git,mysql,linux,vscode,docker" />
 </p>
 
-
+<details>
 <summary>📊 Github Stats</summary>
 <div align="center">
   <img src="https://github-stats-alpha.vercel.app/api?username=CarsonLLuo&cc=22272e&tc=37BCF6&ic=fff&bc=0000" />
@@ -86,52 +86,56 @@
     <img alt="GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=CarsonLLuo&theme=minimal&hide_border=true">
   </picture>
 </div>
+</details>
 
+<!-- GitHub Stats -->
+<details>
+<summary>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" />
+  <b>GitHub Stats</b>
+</summary>
 
+<br/>
 
-
-<!-- Learning -->
 <div align="center">
-  <h3>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Learning" width="35" height="35"/>
-    Learning Journey
-  </h3>
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-stats-alpha.vercel.app/api?username=CarsonLLuo&cc=22272e&tc=37BCF6&ic=fff&bc=0000" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarsonLLuo&layout=compact&theme=dark&hide_border=true&bg_color=22272e" />
+      </td>
+    </tr>
+  </table>
 </div>
+</details>
 
-<div align="center">
-  <!-- Card Container -->
-  <div style="display: flex; justify-content: center; gap: 20px;">
-    <!-- LLM Card -->
-    <div align="center">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Brain.png" width="40" height="40" alt="LLM"/>
-      <br/>
-      <b>大语言模型</b>
-      <br/>
-      <sup>GPT | LLAMA | Transformers</sup>
-    </div>
-    <!-- Fine-tuning Card -->
-    <div align="center">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Left.png" width="40" height="40" alt="Fine-tuning"/>
-      <br/>
-      <b>模型微调</b>
-      <br/>
-      <sup>LoRA | QLoRA | P-Tuning</sup>
-    </div>
-    <!-- Prompt Engineering Card -->
-    <div align="center">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magic%20Wand.png" width="40" height="40" alt="Prompt"/>
-      <br/>
-      <b>Prompt Engineering</b>
-      <br/>
-      <sup>CoT | RAG | System Prompts</sup>
-    </div>
-  </div>
-  
-  <!-- Progress Bar -->
-  <div align="center">
-    <br/>
-    <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake"/>
-  </div>
-</div>
+<!-- Learning Journey -->
+<h2 align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="30" height="30" />
+  Learning Journey
+</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Brain.png" width="25" height="25" alt="LLM"/>
+  <a href="#"><b>大语言模型</b></a>
+  <br/>
+  <sup>GPT | LLAMA | Transformers</sup>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Left.png" width="25" height="25" alt="Fine-tuning"/>
+  <a href="#"><b>模型微调</b></a>
+  <br/>
+  <sup>LoRA | QLoRA | P-Tuning</sup>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magic%20Wand.png" width="25" height="25" alt="Prompt"/>
+  <a href="#"><b>Prompt Engineering</b></a>
+  <br/>
+  <sup>CoT | RAG | System Prompts</sup>
+</p>
 
 </div>
