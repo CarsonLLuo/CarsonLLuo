@@ -64,10 +64,7 @@
 </p>
 
 
-<summary>📊 Github Stats</summary>
-<div align="center">
-  <img src="https://github-stats-alpha.vercel.app/api?username=CarsonLLuo&cc=22272e&tc=37BCF6&ic=fff&bc=0000" />
-</div>
+
 
 <!-- 最常用语言统计 -->
 <div align="center">
