@@ -63,7 +63,7 @@
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,git,mysql,linux,vscode,docker" />
 </p>
 
-<details>
+
 <summary>📊 Github Stats</summary>
 <div align="center">
   <img src="https://github-stats-alpha.vercel.app/api?username=CarsonLLuo&cc=22272e&tc=37BCF6&ic=fff&bc=0000" />
@@ -86,30 +86,9 @@
     <img alt="GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=CarsonLLuo&theme=minimal&hide_border=true">
   </picture>
 </div>
-</details>
 
-<!-- GitHub Stats -->
-<details>
-<summary>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" />
-  <b>GitHub Stats</b>
-</summary>
 
-<br/>
 
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-stats-alpha.vercel.app/api?username=CarsonLLuo&cc=22272e&tc=37BCF6&ic=fff&bc=0000" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarsonLLuo&layout=compact&theme=dark&hide_border=true&bg_color=22272e" />
-      </td>
-    </tr>
-  </table>
-</div>
-</details>
 
 <!-- Learning -->
 <div align="center">
