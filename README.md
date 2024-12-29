@@ -9,8 +9,7 @@
 
 <!-- 个人资料徽标 -->
 <div align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
-  <a href="#"><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;
+  <a href="#"><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>[&emsp](https://x.com/carsonluo2003);
   <a href="#"><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>&emsp;
   <a href="#"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
   <a href="#"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp;
@@ -69,18 +68,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=CarsonLLuo)](https://github.com/ryo-ma/github-profile-trophy)
 
-<!-- 贪吃蛇代码贡献图 -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/CarsonLLuo/CarsonLLuo/output/github-contribution-grid-snake.svg" />
-</div>
 
-<div align="center">
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=CarsonLLuo&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CarsonLLuo&theme=dark&hide_border=true" />
-</div>
 
 <!-- 语言使用统计 -->
 <div align="center">
