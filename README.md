@@ -88,34 +88,71 @@
 </div>
 </details>
 
-<!-- 正在学习 -->
+<!-- GitHub Stats -->
+<details>
+<summary>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" />
+  <b>GitHub Stats</b>
+</summary>
+
+<br/>
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-stats-alpha.vercel.app/api?username=CarsonLLuo&cc=22272e&tc=37BCF6&ic=fff&bc=0000" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarsonLLuo&layout=compact&theme=dark&hide_border=true&bg_color=22272e" />
+      </td>
+    </tr>
+  </table>
+</div>
+</details>
+
+<!-- Learning -->
 <div align="center">
   <h3>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="35" height="35" />
-    Learning
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Learning" width="35" height="35"/>
+    Learning Journey
   </h3>
 </div>
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="30" height="30" />
-      <br />大语言模型
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="30" height="30" />
-      <br />模型微调
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/High%20Voltage.png" width="30" height="30" />
-      <br />Prompt Engineering
-    </td>
-  </tr>
-</table>
-
-<!-- 访客统计 -->
 <div align="center">
-  <img src="https://profile-counter.glitch.me/CarsonLLuo/count.svg" />
+  <!-- Card Container -->
+  <div style="display: flex; justify-content: center; gap: 20px;">
+    <!-- LLM Card -->
+    <div align="center">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Brain.png" width="40" height="40" alt="LLM"/>
+      <br/>
+      <b>大语言模型</b>
+      <br/>
+      <sup>GPT | LLAMA | Transformers</sup>
+    </div>
+    <!-- Fine-tuning Card -->
+    <div align="center">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Left.png" width="40" height="40" alt="Fine-tuning"/>
+      <br/>
+      <b>模型微调</b>
+      <br/>
+      <sup>LoRA | QLoRA | P-Tuning</sup>
+    </div>
+    <!-- Prompt Engineering Card -->
+    <div align="center">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magic%20Wand.png" width="40" height="40" alt="Prompt"/>
+      <br/>
+      <b>Prompt Engineering</b>
+      <br/>
+      <sup>CoT | RAG | System Prompts</sup>
+    </div>
+  </div>
+  
+  <!-- Progress Bar -->
+  <div align="center">
+    <br/>
+    <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake"/>
+  </div>
 </div>
 
 </div>
