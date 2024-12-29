@@ -1,163 +1,114 @@
 <div align="center">
   
-  <!-- dynamic typing effect 动态打字效果 -->
-  <div align="center">
-    <a href="https://blog.sunguoqi.com/">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);Carson祝您今天愉快!&center=true&size=27" alt="Typing SVG" />
-    </a>
-  </div>
-
-  <!-- knock code pictures 敲代码的图片 -->
-  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" /><br>
-
-  <!-- profile logo 个人资料徽标 -->
-  <div align="center">
-   
-
-
-
-
+<!-- 动态打字效果 -->
+<div align="center">
+  <a href="https://blog.sunguoqi.com/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);Carson祝您今天愉快!&center=true&size=27" alt="Typing SVG" />
+  </a>
 </div>
 
-#  🙋 Hello
+<!-- 个人资料徽标 -->
+<div align="center">
+  <a href="https://blog.sunguoqi.com/"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
+  <a href="https://twitter.com/"><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;
+  <a href="https://www.youtube.com/"><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>&emsp;
+  <a href="https://space.bilibili.com/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
+  <a href="https://www.zhihu.com/"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp;
+</div>
 
-<table>
-<tr><td>
+## 🌈 About Me
 
-<!-- About me 关于我 -->
-### 🤺 About Me
-  
-<img align="right" width="250" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hi.gif" />
+```python
+class Carson:
+    def __init__(self):
+        self.name = "Carson"
+        self.role = "AI Developer & Researcher"
+        self.language_spoken = ["zh_CN", "en_US"]
+        self.personality = "INFP"
+        self.tech_stack = {
+            "Deep Learning": ["PyTorch", "TensorFlow", "Keras"],
+            "Machine Learning": ["Scikit-learn", "XGBoost", "LightGBM"],
+            "Data Science": ["NumPy", "Pandas", "Matplotlib", "Seaborn"],
+            "Tools": ["Jupyter", "Git", "Docker", "Linux"]
+        }
+        
+    def say_hi(self):
+        print("Thanks for dropping by! Hope you find something interesting.")
 
-<p>&emsp;&emsp;大家好，我是Carson，一枚INFP</p>
-<p>&emsp;&emsp;热爱编程、摄影、读书、旅行。</p>
-<p>&emsp;&emsp;热爱计算机科学和IT互联网事业，励志成为一名优秀的独立开发者。</p>
-<p>&emsp;&emsp;希望这个世界变得更加美好</p>
-<p><strong>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
+me = Carson()
+me.say_hi()
+```
 
-</td></tr>
+## 🚀 Skills & Tools
 
-<tr>
-<td>
-  
+### 💻 Programming Languages & AI Frameworks
 
-### 🤾‍♂️ Funny Soul
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![CUDA](https://img.shields.io/badge/-CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
 
-<img align="right" width="250" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hi.gif" />
+### 🛠 Web Technologies & Tools
 
-<!-- START_SECTION:douban -->
-* <a href='https://book.douban.com/subject/1209899/' target='_blank'>最近在读我与地坛</a> 🌟🌟🌟🌟🌟 力荐- 2023-04-17
-* <a href='http://movie.douban.com/subject/1292052/' target='_blank'>看过肖申克的救赎</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07
-* <a href='http://movie.douban.com/subject/1292365/' target='_blank'>看过活着</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07
-* <a href='https://open.spotify.com/artist/3HXSUfI76zVZk71UMAeVfp' target='_blank'>听过草东没有派对</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07
-<!-- END_SECTION:douban -->
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-</td></tr>
-
-<tr><td>
-
-
-
-
-
-<!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
-
-<div align="center" >
-
+## 🎯 Interests
 
 ```mermaid
 mindmap
   root((Carson))
-    编程
-      Web开发
-      Python
-        Deep Learning
-        Machine Learning
+    AI & 编程
+      深度学习
+        PyTorch
+        TensorFlow
+      机器学习
+        传统算法
+        集成学习
+      计算机视觉
+        目标检测
+        图像分类
+      自然语言处理
+        Transformer
+        BERT
     摄影
       人文
       建筑
       风景
     音乐
       摇滚
-        后摇
-        另类
-        Shoegaze
+      后摇
+      Shoegaze
     阅读
-      短篇散文
-      人物传记
-      个人成长
-      社会文化
-      心理
-      计算机技术
+      散文
+      传记
+      技术
 ```
 
-<!-- just img 图片 -->
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man.png" alt="Man Lifting Weights" width="250" height="250" />
+## 📚 Recent Reading
 
-<!--  skill badge 技能徽章 -->
-💪 正在学习
+- 《我与地坛》 - 史铁生 ⭐⭐⭐⭐⭐
+- 《活着》 - 余华 ⭐⭐⭐⭐⭐
+- 《肖申克的救赎》 - 斯蒂芬·金 ⭐⭐⭐⭐⭐
 
-![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
-![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
-![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
-![Vue.js Badge](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=flat)
-![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat)
-![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
-  
-🧠 计划学习
+## 📊 GitHub Stats
 
-![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat)
-![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat)
-![C Sharp Badge](https://img.shields.io/badge/C%20Sharp-239120?logo=csharp&logoColor=fff&style=flat)
-![R Badge](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=fff&style=flat)
-![PHP Badge](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff&style=flat)
-![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat)
-![Node.js Badge](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat)
-![jQuery Badge](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff&style=flat)
-![Vite Badge](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=flat)
-![Android Badge](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=fff&style=flat)
-![Three.js Badge](https://img.shields.io/badge/Three.js-092E20?logo=threedotjs&logoColor=fff&style=flat)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CarsonLLuo&show_icons=true&theme=radical" />
+</div>
 
-🧰 常用的工具
+## 🌟 Favorites Quote
 
-![Xiaomi Badge](https://img.shields.io/badge/Xiaomi-FF6900?logo=xiaomi&logoColor=fff&style=flat)
-![Windows Badge](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=flat)
-![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
-![Adobe Photoshop Badge](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff&style=flat)
-![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
+> "We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility."
 
-<!-- programming tool icon 编程工具图标 -->
-<img src="https://skillicons.dev/icons?i=ps,ai,pr,c,cpp,cs,ts,discord,twitter,mongodb,instagram,idea,git" /><br>
+---
 
-
-<!-- just img 图片 -->
-  <div align="center">
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" /></div>
-
-
-<!-- ########################################## 分割 ########################################## -->
-
-  
-<!-- Quotes 名人名言 -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br>
-
-<!-- Awesome repo 比较好的仓库-->
-<a href="https://github.com/sun0225SUN/Awesome-Love-Code">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sun0225SUN&repo=Awesome-Love-Code&theme=dark&bg_color=121212&hide_border=true" /></a>
-<a href="https://github.com/sun0225SUN/Student-Data-Vision">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sun0225SUN&repo=Student-Data-Vision&theme=dark&bg_color=121212&hide_border=true" /></a><br><br>
- 
-
-<!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
-
-<!-- run 图片 -->
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man_run.png" alt="Man Running" width="250" height="250" />
-
-<!-- Joke 笑话 -->
-<div><img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" alt="Jokes Card" /></div>
-
-
-<!-- ########################################## 分割 ########################################## -->
-
+<div align="center">
+  <img src="https://profile-counter.glitch.me/YourGitHubUsername/count.svg" alt="访客数量" />
+</div>
