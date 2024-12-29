@@ -1,79 +1,117 @@
 <div align="center">
 
 <!-- 动态打字效果 -->
+<a href="#">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=60B7FF&center=true&vCenter=true&random=false&width=435&lines=print(%22Hello%2C+I'm+Carson%22);%E6%AD%A3%E5%9C%A8%E5%AD%A6%E4%B9%A0%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E5%92%8C%E5%BE%AE%E8%B0%83%F0%9F%8C%B1" />
+</a>
+
+<!-- Reach me on -->
 <div align="center">
-  <a href="#">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=print(%22Hello%2C%20World!%22);Carson祝您今天愉快!&center=true&size=27" alt="Typing SVG" />
+  <h3>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20Wave.png" alt="Wave" width="35" height="35" />
+    Reach me on
+  </h3>
+</div>
+
+<p>
+  <a href="https://x.com/carsonluo2003" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1D9BF0?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-</div>
-
-<!-- 个人资料徽标 -->
-<div align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>[&emsp](https://x.com/carsonluo2003);
-  <a href="#"><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>&emsp;
-  <a href="#"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
-  <a href="#"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp;
-</div>
-
-<br>
+  <a href="https://space.bilibili.com/13818426" target="_blank">
+    <img src="https://img.shields.io/badge/Bilibili-FF69b4?style=for-the-badge&logo=bilibili&logoColor=white" />
+  </a>
+  <a href="mailto:carsonluo2233@outlook.com">
+    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white" />
+  </a>
+</p>
 
 <!-- About me -->
 <div align="center">
-  <div align="center">
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="60" height="60" />
-    <h2> About Me </h2>
-  </div>
-
-  ```text
-  🎓 我是一名 AI 开发者和研究者
-  🌱 专注于深度学习和机器学习
-  📚 热爱编程、摄影、音乐和阅读
-  ✨ 希望用 AI 让世界变得更美好
-  ```
-
-  <!-- 技术栈标签 -->
-  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,docker,git,linux,vim" /><br>
+  <h3>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="35" height="35" />
+    About Me
+  </h3>
 </div>
 
-<br>
-
-<!-- Skills -->
+<!-- Profile Views -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Mechanical%20Arm.png" alt="Mechanical Arm" width="60" height="60" />
-  <h2> Tools & Skills </h2>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=500&lines=Hi+there!+%F0%9F%91%8B+Welcome+to+my+profile!" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=000000&center=true&vCenter=true&random=false&width=500&lines=Hi+there!+%F0%9F%91%8B+Welcome+to+my+profile!" />
+  </picture>
 </div>
 
 <div align="center">
-  <!-- 编程语言和框架 -->
-  <h4>🚀 常用</h4>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  
-  <h4>🛠️ 开发工具</h4>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" />
+  <h4>✨ 我是 Carson</h4>
+  <h4>📚 即将毕业，计划 Gap</h4>
+  <h4>🚀 热爱探索 AI 技术，专注于深度学习和大语言模型</h4>
+  <h4>🌱 让我们一起探索 AI 的无限可能</h4>
 </div>
 
-<br>
-
-<!-- GitHub 统计 -->
+<!-- Tech Stack -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="60" height="60" />
-  <h2> GitHub Stats </h2>
+  <h3>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="35" height="35" />
+    Tech Stack
+  </h3>
 </div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=CarsonLLuo)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,git,mysql,linux,vscode,docker" />
+</p>
 
-
-
-<!-- 语言使用统计 -->
+<details>
+<summary>📊 Github Stats</summary>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarsonLLuo&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
+  <img src="https://github-stats-alpha.vercel.app/api?username=CarsonLLuo&cc=22272e&tc=37BCF6&ic=fff&bc=0000" />
 </div>
+
+<!-- 最常用语言统计 -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=CarsonLLuo&layout=compact&theme=dark&hide_border=true&bg_color=22272e">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=CarsonLLuo&layout=compact&hide_border=true">
+    <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarsonLLuo&layout=compact&hide_border=true">
+  </picture>
+</div>
+
+<!-- 活动统计 -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=CarsonLLuo&theme=github-dark&hide_border=true&bg_color=22272e">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=CarsonLLuo&theme=minimal&hide_border=true">
+    <img alt="GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=CarsonLLuo&theme=minimal&hide_border=true">
+  </picture>
+</div>
+</details>
+
+<!-- 正在学习 -->
+<div align="center">
+  <h3>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="35" height="35" />
+    Learning
+  </h3>
+</div>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="30" height="30" />
+      <br />大语言模型
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="30" height="30" />
+      <br />模型微调
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/High%20Voltage.png" width="30" height="30" />
+      <br />Prompt Engineering
+    </td>
+  </tr>
+</table>
 
 <!-- 访客统计 -->
 <div align="center">
