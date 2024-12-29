@@ -52,21 +52,63 @@
 </div>
 
 <!-- Tech Stack -->
-<div align="center">
-  <h3>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="35" height="35" />
-    Tech Stack
-  </h3>
-</div>
+<h2 align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="30" height="30" />
+  Things I code with
+</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,git,mysql,linux,vscode,docker" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" />
 </p>
 
-
-
+<details>
+<summary>📊 Github Stats</summary>
+<div align="center">
+  <img src="https://github-stats-alpha.vercel.app/api?username=CarsonLLuo&cc=22272e&tc=37BCF6&ic=fff&bc=0000" />
+</div>
 
 <!-- 最常用语言统计 -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=CarsonLLuo&layout=compact&theme=dark&hide_border=true&bg_color=22272e">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=CarsonLLuo&layout=compact&hide_border=true">
+    <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarsonLLuo&layout=compact&hide_border=true">
+  </picture>
+</div>
+
+<!-- 活动统计 -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=CarsonLLuo&theme=github-dark&hide_border=true&bg_color=22272e">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=CarsonLLuo&theme=minimal&hide_border=true">
+    <img alt="GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=CarsonLLuo&theme=minimal&hide_border=true">
+  </picture>
+</div>
+</details>
+
+<!-- GitHub Stats -->
+<details>
+<summary>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" />
+  <b>GitHub Stats</b>
+</summary>
+
+<br/>
+
 <div align="center">
   <table>
     <tr>
@@ -79,23 +121,7 @@
     </tr>
   </table>
 </div>
-
-<!-- 活动统计 -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=CarsonLLuo&theme=github-dark&hide_border=true&bg_color=22272e">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=CarsonLLuo&theme=minimal&hide_border=true">
-    <img alt="GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=CarsonLLuo&theme=minimal&hide_border=true">
-  </picture>
-</div>
-
-
-<!-- GitHub Stats -->
-
-
-
-
-
+</details>
 
 <!-- Learning Journey -->
 <h2 align="center">
