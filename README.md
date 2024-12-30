@@ -2,7 +2,7 @@
 
 <!-- 动态打字效果 -->
 <a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=60B7FF&center=true&vCenter=true&random=false&width=435&lines=print(%22Hello%2C+I'm+Carson%22);%E6%AD%A3%E5%9C%A8%E5%AD%A6%E4%B9%A0%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E5%92%8C%E5%BE%AE%E8%B0%83%F0%9F%8C%B1" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=60B7FF&center=true&vCenter=true&random=false&width=435&lines=print(%22Hello%2C+I'm+Carson%22);" />
 </a>
 
 
