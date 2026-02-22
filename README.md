@@ -30,6 +30,7 @@
 
 <p>
   ✨ Hi, I'm <strong>Carson</strong> — an AI enthusiast from China<br/>
+  🏫 Research Intern @ <strong>Tsinghua University MAIC</strong> — AI4Education, qualitative data analysis<br/>
   🤖 Passionate about <strong>Machine Learning</strong>, <strong>LLMs</strong> & <strong>AI applications</strong><br/>
   📖 Currently exploring the frontiers of <strong>deep learning</strong> and <strong>NLP</strong><br/>
   🌱 Believer in technology as a force for good<br/>
@@ -66,6 +67,18 @@
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+</p>
+
+**AI Engineering**
+
+<p>
+  <img src="https://img.shields.io/badge/Vibe--Coding-FF6B6B?style=for-the-badge&logo=magic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Agent_Dev-7B2FBE?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude_API-D4A017?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/AutoGen-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dify-6366F1?style=for-the-badge&logo=dify&logoColor=white" />
+  <img src="https://img.shields.io/badge/LlamaIndex-FFC107?style=for-the-badge&logo=llama&logoColor=black" />
 </p>
 
 **Tools & Environment**
