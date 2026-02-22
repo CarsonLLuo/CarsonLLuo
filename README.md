@@ -30,7 +30,7 @@
 
 <p>
   ✨ Hi, I'm <strong>Carson</strong> — an AI enthusiast from China<br/>
-  🏫 Research Intern @ <strong>Tsinghua University MAIC</strong> — AI4Education, qualitative data analysis<br/>
+  🏫 Research Intern @ <strong>Tsinghua University MAIC</strong> — AI4Education, Quantitative data analysis<br/>
   🤖 Passionate about <strong>Machine Learning</strong>, <strong>LLMs</strong> & <strong>AI applications</strong><br/>
   📖 Currently exploring the frontiers of <strong>deep learning</strong> and <strong>NLP</strong><br/>
   🌱 Believer in technology as a force for good<br/>
