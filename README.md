@@ -39,12 +39,6 @@
 
 ---
 
-<!-- GitHub stats -->
-<h3>📊 GitHub Stats</h3>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=CarsonLLuo&theme=radical&hide_border=true" />
-</p>
 
 ---
 
